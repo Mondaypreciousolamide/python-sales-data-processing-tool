@@ -1,0 +1,22 @@
+SALES REPORT
+============
+
+Valid records: 5
+Invalid records: 1
+
+Sales details:
+
+John - Laptop - $1,000.00
+Mary - Phone - $600.00
+David - Keyboard - $150.00
+Sarah - Monitor - $500.00
+Michael - Mouse - $200.00
+
+Invalid records:
+
+Customer: Peter
+Product: Tablet
+Quantity: -3
+Reason: Quantity must be greater than 0
+
+Total sales: $2,450.00
